@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../img/fondo principal.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+header{
+    background-color: white;
+    padding: 20px;
+}
+main{
+    margin: 0 auto;
+    padding: 10px;
+}
+h2,p,ul {
+    margin-bottom: 15px;
+    color: white;
+}
+
+a{
+    color:rgb(255, 0, 0);
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
